@@ -1,0 +1,36 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Listado de paises</title>
+    <link href="~/Styles/miEstilo.css" rel="stylesheet" />
+</head>
+<body>
+    <div>
+        <div class="Titulo">Demo 01: Web en N capas</div>
+        <div class="Subtitulo">Consulta de Paises - Desarrollado por Carlos Macha M.</div>
+        <div class="Mensaje">Total de Paises: <span id="spnTotalReg"></span></div>
+        <div class="Mensaje">Tiempo de proceso: <span id=spnTiempo></span></div>
+        <div id="divTabla"></div>
+    </div>
+
+    <!-- Diseñar la ventana para agregar un nuevo Producto -->
+    <div id="divPopupContainer" class="PopupContainer">
+        <div id="divPopupWindow" class="PopupWindow">
+            <div id="divBarratitulo" class="BarraTitulo" style="clear:left">
+                <div style="width:50%;height:30px"><span id="spnBarraPopup">Titulo</span></div>
+                <div style="width:5%;float:right"><img id="imgCerrar" src="~/Images/Close.png" class="Icono" title="Cerrar Ventana" style="text-align:right;vertical-align:top;position:absolute;margin-top:-30px" /></div>
+            </div>
+            <div id="divCuerpo" style="margin-left:20px;margin-top:20px">
+                <div style="clear:left;height:10px">
+                    <div style="width:80%;float:right">
+                        <select id="cboPaises" style="width:150px"></select>
+                        <img id="imgVer" src="~/Images/Ver.png" class="Icono" title='Ver Pais seleccionado' />
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="~/Scritps/Consulta.js"></script>
+</body>
+</html>

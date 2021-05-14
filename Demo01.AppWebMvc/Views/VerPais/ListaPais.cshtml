@@ -1,0 +1,36 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>ListaPais</title>
+    <link href="~/Styles/miEstilo.css" rel="stylesheet" />
+</head>
+<body>
+    <div>
+        <div id="divPais"></div>
+        <input type="button" ide="btnVolver" value="Página anterior" onClick="volver()">
+    </div>
+    <script>
+        var misCookies = document.cookie;
+        var arrCookies = misCookies.split(";");
+        var nReg = arrCookies.length;
+        var arrPais;
+        var pais = "";
+        for (i = 0; i < nReg; i++) {
+            arrPais = arrCookies[i].split("=");
+            pais += arrPais[1] + " - ";
+        }
+
+        var html = "";
+        html = "<div class='Titulo'>El último " + arrCookies[nReg - 1];
+        html += "<div class='Subtitulo'>Todas las Cookies " + pais + "</div>";
+        document.getElementById("divPais").innerHTML = html;
+
+        function volver() {
+            window.location.replace("/");
+        }
+
+    </script>
+</body>
+</html>

@@ -1,0 +1,15 @@
+C:\Data\NET\Talleres\Sabados7\Demos\Demo01.Librerias.EntidadesNegocio\bin\Debug\Demo01.Librerias.EntidadesNegocio.dll
+C:\Data\NET\Talleres\Sabados7\Demos\Demo01.Librerias.EntidadesNegocio\bin\Debug\Demo01.Librerias.EntidadesNegocio.pdb
+C:\Data\NET\Talleres\Sabados7\Demos\Demo01.Librerias.EntidadesNegocio\obj\Debug\Demo01.Librerias.EntidadesNegocio.dll
+C:\Data\NET\Talleres\Sabados7\Demos\Demo01.Librerias.EntidadesNegocio\obj\Debug\Demo01.Librerias.EntidadesNegocio.pdb
+C:\Data\NET\Talleres\Sabados7\Demos\Demo01\Demo01.Librerias.EntidadesNegocio\bin\Debug\Demo01.Librerias.EntidadesNegocio.dll
+C:\Data\NET\Talleres\Sabados7\Demos\Demo01\Demo01.Librerias.EntidadesNegocio\bin\Debug\Demo01.Librerias.EntidadesNegocio.pdb
+C:\Data\NET\Talleres\Sabados7\Demos\Demo01\Demo01.Librerias.EntidadesNegocio\obj\Debug\Demo01.Librerias.EntidadesNegocio.csprojResolveAssemblyReference.cache
+C:\Data\NET\Talleres\Sabados7\Demos\Demo01\Demo01.Librerias.EntidadesNegocio\obj\Debug\Demo01.Librerias.EntidadesNegocio.dll
+C:\Data\NET\Talleres\Sabados7\Demos\Demo01\Demo01.Librerias.EntidadesNegocio\obj\Debug\Demo01.Librerias.EntidadesNegocio.pdb
+D:\TRABAJO\NetCS\TallerWeb\Demos\Demo01\Demo01.Librerias.EntidadesNegocio\bin\Debug\Demo01.Librerias.EntidadesNegocio.dll
+D:\TRABAJO\NetCS\TallerWeb\Demos\Demo01\Demo01.Librerias.EntidadesNegocio\bin\Debug\Demo01.Librerias.EntidadesNegocio.pdb
+D:\TRABAJO\NetCS\TallerWeb\Demos\Demo01\Demo01.Librerias.EntidadesNegocio\obj\Debug\Demo01.Librerias.EntidadesNegocio.csprojAssemblyReference.cache
+D:\TRABAJO\NetCS\TallerWeb\Demos\Demo01\Demo01.Librerias.EntidadesNegocio\obj\Debug\Demo01.Librerias.EntidadesNegocio.csproj.CoreCompileInputs.cache
+D:\TRABAJO\NetCS\TallerWeb\Demos\Demo01\Demo01.Librerias.EntidadesNegocio\obj\Debug\Demo01.Librerias.EntidadesNegocio.dll
+D:\TRABAJO\NetCS\TallerWeb\Demos\Demo01\Demo01.Librerias.EntidadesNegocio\obj\Debug\Demo01.Librerias.EntidadesNegocio.pdb

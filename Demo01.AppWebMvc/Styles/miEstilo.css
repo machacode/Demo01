@@ -1,0 +1,66 @@
+﻿body {
+    background-color:lightblue;
+}
+.Titulo {
+    background-color: black;
+    color: white;
+    font-size: xx-large;
+    font-weight: bold;
+}
+.Subtitulo {
+    background-color: white;
+    color: gray;
+    font-size: x-large;
+    font-weight: bold;
+}
+.Mensaje {
+    color:blue;
+    font-weight:bold;
+}
+.FilaCabecera {
+    background-color:lightgray;
+    color:black;
+}
+.FilaDatos {
+    background-color:white;
+    color:black;
+}
+.FilaDatos:hover {
+    background-color:yellow;
+    color:blue;
+}
+
+.Icono {
+    width: 30px;
+    height: 30px;
+    cursor: pointer;
+}
+
+.BarraTitulo {
+    background-color: blue;
+    color: white;
+    font-weight: bold;
+}
+
+.PopupContainer {
+    /*position:absolute;*/
+    position: fixed;
+    left: 0px;
+    top: 0px;
+    width: 100%;
+    height: 100%;
+    /*background-color:transparent;*/
+    background-color: rgba(0,0,0,0.50);
+    display: none;
+}
+
+.PopupWindow {
+    position: absolute;
+    left: 30%;
+    top: 30%;
+    width: 40%;
+    height: 40%;
+    background-color: white;
+    border-style: solid;
+    border-color: blue;
+}
