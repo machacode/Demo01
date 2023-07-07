@@ -16,3 +16,12 @@ D:\TRABAJO\NetCS\TallerWeb\Demos\Demo01\Demo01.Librerias.AccesoDatos\bin\Debug\D
 D:\TRABAJO\NetCS\TallerWeb\Demos\Demo01\Demo01.Librerias.AccesoDatos\bin\Debug\Demo01.Librerias.EntidadesNegocio.dll
 D:\TRABAJO\NetCS\TallerWeb\Demos\Demo01\Demo01.Librerias.AccesoDatos\bin\Debug\Demo01.Librerias.EntidadesNegocio.pdb
 D:\TRABAJO\NetCS\TallerWeb\Demos\Demo01\Demo01.Librerias.AccesoDatos\obj\Debug\Demo01.Librerias.AccesoDatos.csproj.CopyComplete
+F:\PERSONAL\GitHub\Demo01\Demo01.Librerias.AccesoDatos\bin\Debug\Demo01.Librerias.AccesoDatos.dll
+F:\PERSONAL\GitHub\Demo01\Demo01.Librerias.AccesoDatos\bin\Debug\Demo01.Librerias.AccesoDatos.pdb
+F:\PERSONAL\GitHub\Demo01\Demo01.Librerias.AccesoDatos\bin\Debug\Demo01.Librerias.EntidadesNegocio.dll
+F:\PERSONAL\GitHub\Demo01\Demo01.Librerias.AccesoDatos\bin\Debug\Demo01.Librerias.EntidadesNegocio.pdb
+F:\PERSONAL\GitHub\Demo01\Demo01.Librerias.AccesoDatos\obj\Debug\Demo01.Librerias.AccesoDatos.csproj.AssemblyReference.cache
+F:\PERSONAL\GitHub\Demo01\Demo01.Librerias.AccesoDatos\obj\Debug\Demo01.Librerias.AccesoDatos.csproj.CoreCompileInputs.cache
+F:\PERSONAL\GitHub\Demo01\Demo01.Librerias.AccesoDatos\obj\Debug\Demo01.Librerias.AccesoDatos.csproj.CopyComplete
+F:\PERSONAL\GitHub\Demo01\Demo01.Librerias.AccesoDatos\obj\Debug\Demo01.Librerias.AccesoDatos.dll
+F:\PERSONAL\GitHub\Demo01\Demo01.Librerias.AccesoDatos\obj\Debug\Demo01.Librerias.AccesoDatos.pdb
