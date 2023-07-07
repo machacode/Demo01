@@ -36,7 +36,12 @@ namespace Demo01.Librerias.AccesoDatos
             obePais = new bePais();
             obePais.IdPais = 5;
             obePais.Nombre = "Brasil";
-            obePais.Poblacion = 13805000;
+            obePais.Poblacion = 17895000;
+            lbePais.Add(obePais);
+            obePais = new bePais();
+            obePais.IdPais = 6;
+            obePais.Nombre = "Ecuador";
+            obePais.Poblacion = 456800;
             lbePais.Add(obePais);
             return lbePais;
         } 
