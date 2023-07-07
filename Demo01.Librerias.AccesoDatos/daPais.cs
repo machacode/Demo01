@@ -33,6 +33,11 @@ namespace Demo01.Librerias.AccesoDatos
             obePais.Nombre = "Argrntina";
             obePais.Poblacion = 3805000;
             lbePais.Add(obePais);
+            obePais = new bePais();
+            obePais.IdPais = 5;
+            obePais.Nombre = "Brasil";
+            obePais.Poblacion = 13805000;
+            lbePais.Add(obePais);
             return lbePais;
         } 
 

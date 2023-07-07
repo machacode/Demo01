@@ -13,3 +13,9 @@ D:\TRABAJO\NetCS\TallerWeb\Demos\Demo01\Demo01.Librerias.EntidadesNegocio\obj\De
 D:\TRABAJO\NetCS\TallerWeb\Demos\Demo01\Demo01.Librerias.EntidadesNegocio\obj\Debug\Demo01.Librerias.EntidadesNegocio.csproj.CoreCompileInputs.cache
 D:\TRABAJO\NetCS\TallerWeb\Demos\Demo01\Demo01.Librerias.EntidadesNegocio\obj\Debug\Demo01.Librerias.EntidadesNegocio.dll
 D:\TRABAJO\NetCS\TallerWeb\Demos\Demo01\Demo01.Librerias.EntidadesNegocio\obj\Debug\Demo01.Librerias.EntidadesNegocio.pdb
+F:\PERSONAL\GitHub\Demo01\Demo01.Librerias.EntidadesNegocio\bin\Debug\Demo01.Librerias.EntidadesNegocio.dll
+F:\PERSONAL\GitHub\Demo01\Demo01.Librerias.EntidadesNegocio\bin\Debug\Demo01.Librerias.EntidadesNegocio.pdb
+F:\PERSONAL\GitHub\Demo01\Demo01.Librerias.EntidadesNegocio\obj\Debug\Demo01.Librerias.EntidadesNegocio.csproj.AssemblyReference.cache
+F:\PERSONAL\GitHub\Demo01\Demo01.Librerias.EntidadesNegocio\obj\Debug\Demo01.Librerias.EntidadesNegocio.csproj.CoreCompileInputs.cache
+F:\PERSONAL\GitHub\Demo01\Demo01.Librerias.EntidadesNegocio\obj\Debug\Demo01.Librerias.EntidadesNegocio.dll
+F:\PERSONAL\GitHub\Demo01\Demo01.Librerias.EntidadesNegocio\obj\Debug\Demo01.Librerias.EntidadesNegocio.pdb
