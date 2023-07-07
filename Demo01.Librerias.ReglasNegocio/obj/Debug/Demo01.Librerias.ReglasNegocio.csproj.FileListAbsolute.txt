@@ -20,3 +20,14 @@ D:\TRABAJO\NetCS\TallerWeb\Demos\Demo01\Demo01.Librerias.ReglasNegocio\obj\Debug
 D:\TRABAJO\NetCS\TallerWeb\Demos\Demo01\Demo01.Librerias.ReglasNegocio\obj\Debug\Demo01.Librerias.ReglasNegocio.csproj.CopyComplete
 D:\TRABAJO\NetCS\TallerWeb\Demos\Demo01\Demo01.Librerias.ReglasNegocio\obj\Debug\Demo01.Librerias.ReglasNegocio.dll
 D:\TRABAJO\NetCS\TallerWeb\Demos\Demo01\Demo01.Librerias.ReglasNegocio\obj\Debug\Demo01.Librerias.ReglasNegocio.pdb
+F:\PERSONAL\GitHub\Demo01\Demo01.Librerias.ReglasNegocio\bin\Debug\Demo01.Librerias.ReglasNegocio.dll
+F:\PERSONAL\GitHub\Demo01\Demo01.Librerias.ReglasNegocio\bin\Debug\Demo01.Librerias.ReglasNegocio.pdb
+F:\PERSONAL\GitHub\Demo01\Demo01.Librerias.ReglasNegocio\bin\Debug\Demo01.Librerias.AccesoDatos.dll
+F:\PERSONAL\GitHub\Demo01\Demo01.Librerias.ReglasNegocio\bin\Debug\Demo01.Librerias.EntidadesNegocio.dll
+F:\PERSONAL\GitHub\Demo01\Demo01.Librerias.ReglasNegocio\bin\Debug\Demo01.Librerias.AccesoDatos.pdb
+F:\PERSONAL\GitHub\Demo01\Demo01.Librerias.ReglasNegocio\bin\Debug\Demo01.Librerias.EntidadesNegocio.pdb
+F:\PERSONAL\GitHub\Demo01\Demo01.Librerias.ReglasNegocio\obj\Debug\Demo01.Librerias.ReglasNegocio.csproj.AssemblyReference.cache
+F:\PERSONAL\GitHub\Demo01\Demo01.Librerias.ReglasNegocio\obj\Debug\Demo01.Librerias.ReglasNegocio.csproj.CoreCompileInputs.cache
+F:\PERSONAL\GitHub\Demo01\Demo01.Librerias.ReglasNegocio\obj\Debug\Demo01.Librerias.ReglasNegocio.csproj.CopyComplete
+F:\PERSONAL\GitHub\Demo01\Demo01.Librerias.ReglasNegocio\obj\Debug\Demo01.Librerias.ReglasNegocio.dll
+F:\PERSONAL\GitHub\Demo01\Demo01.Librerias.ReglasNegocio\obj\Debug\Demo01.Librerias.ReglasNegocio.pdb
